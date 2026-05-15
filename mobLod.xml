@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Root>
+	<Models>
+		<Value Name="model/m.mdl" MinLodOffset="3">
+			<Value Name="characters/_user/jilulu_71kc/" LodOffset="3" />
+		</Value>
+	</Models>
+	<Textures>
+		<Value Name="textures/t_giruru_cloth_d.tga" MaxTargetSize="64 128">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="64 128" />
+		</Value>
+		<Value Name="textures/t_giruru_cloth_n.tga" MaxTargetSize="64 128">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="64 128" />
+		</Value>
+		<Value Name="textures/default_mix_n.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="16 16" />
+		</Value>
+		<Value Name="textures/default_white.png" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="16 16" />
+		</Value>
+		<Value Name="textures/t_giruru_eyes_d.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="16 16" />
+		</Value>
+		<Value Name="textures/t_default_grid.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="32 32" />
+		</Value>
+		<Value Name="textures/t_giruru_head_d.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="16 32" />
+		</Value>
+		<Value Name="textures/t_giruru_head_n.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="16 32" />
+		</Value>
+		<Value Name="textures/t_giruru_eyelash_d.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="16 16" />
+		</Value>
+		<Value Name="textures/t_giruru_hair_d.tga" MaxTargetSize="64 64">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="30 30" />
+		</Value>
+		<Value Name="textures/t_giruru_body_d.tga" MaxTargetSize="128 128">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="128 128" />
+		</Value>
+		<Value Name="textures/t_giruru_body_n.tga" MaxTargetSize="128 128">
+			<Value Name="characters/_user/jilulu_71kc/" TargetSize="128 128" />
+		</Value>
+	</Textures>
+</Root>
