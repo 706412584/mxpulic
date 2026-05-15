@@ -1,0 +1,11 @@
+{
+    "editor_bcd":{
+    "alias":"editor",
+    "pkg_name":"editor_bcd",
+    "pkg_path":"Res/"
+},
+    "jilulu_71kc":{
+    "pkg_name":"jilulu_71kc",
+    "pkg_path":"Res/characters/_user/"
+}
+}
